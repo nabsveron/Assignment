@@ -1,0 +1,19 @@
+
+.form {
+background:white;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px black;
+  width: 450px;
+}
+body {
+  font-family: Arial, sans-serif;
+  background: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+input{
+    width: 50%;
+}
